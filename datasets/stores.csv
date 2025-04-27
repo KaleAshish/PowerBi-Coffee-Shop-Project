@@ -1,0 +1,36 @@
+StoreID,StoreName,Location,Manager,OpenDate,Status
+S001,Dugar Ltd Café,Meerut,Jivika Andra,2023-12-21,Open
+S002,"Dhingra, Dugar and Lala Café",Kochi,Krish Gulati,2020-06-04,Open
+S003,"Dixit, Kapoor and Ganesh Café",Kirari Suleman Nagar,Manikya Rau,2023-01-28,Open
+S004,Issac Inc Café,Nandyal,Pranay Malhotra,2021-11-13,Open
+S005,"Koshy, Batta and Behl Café",Orai,Rania Vaidya,2023-01-01,Closed
+S006,Soni PLC Café,Ahmedabad,Riaan Trivedi,2021-05-28,Open
+S007,"Ranganathan, Rege and Dutta Café",Amroha,Zoya Sarraf,2022-12-18,Open
+S008,"Sarma, Chanda and Sachdeva Café",Guntakal,Aarna Ravi,2020-07-06,Open
+S009,Ghose-Wadhwa Café,Jodhpur,Aaryahi Khurana,2023-11-19,Open
+S010,Lad and Sons Café,Mysore,Dhanush Wable,2022-02-18,Open
+S011,Batta LLC Café,Bellary,Mishti Raman,2020-10-06,Open
+S012,Issac-Bhargava Café,Suryapet,Nitya Brahmbhatt,2021-05-15,Closed
+S013,Dada-Varghese Café,Imphal,Sara Bahri,2021-02-08,Open
+S014,Dutta Ltd Café,Eluru,Ishita Wali,2022-02-13,Closed
+S015,"Choudhry, Tripathi and Karpe Café",Karaikudi,Shray Dani,2021-01-28,Open
+S016,"Kulkarni, Sharma and Kaur Café",Gudivada,Kabir Kapoor,2022-11-26,Open
+S017,"Randhawa, Kashyap and Ranganathan Café",Jamshedpur,Rati Vasa,2021-07-02,Open
+S018,"Dugal, Chad and Ben Café",Agartala,Khushi Bajaj,2020-11-07,Closed
+S019,Jain-Tak Café,Katni,Shaan Ganesh,2021-12-27,Open
+S020,Wali Ltd Café,Allahabad,Aniruddh Chad,2023-06-10,Closed
+S021,Kapur-Shanker Café,Sagar,Ryan Kunda,2023-10-13,Open
+S022,"Dada, Chadha and Shah Café",Machilipatnam,Alisha Chhabra,2023-05-23,Open
+S023,Banerjee PLC Café,Kochi,Raghav Goyal,2021-06-05,Closed
+S024,Konda Inc Café,Gorakhpur,Samar Vora,2023-07-23,Open
+S025,Khosla-Bhasin Café,Guwahati,Vihaan Wali,2023-04-10,Closed
+S026,"Varkey, Madan and Banerjee Café",Khandwa,Hazel Bir,2022-12-10,Open
+S027,Chad-Sahota Café,Nandyal,Advika Lata,2023-04-06,Open
+S028,Dara-Chand Café,Rampur,Saksham Sodhi,2021-09-16,Closed
+S029,Grover Inc Café,Kozhikode,Hridaan Hans,2021-02-16,Open
+S030,Taneja-Date Café,Chennai,Jayan Krishnan,2023-07-31,Closed
+S031,Kakar and Sons Café,Mirzapur,Mannat Lad,2022-10-07,Open
+S032,"Barman, Varty and Raval Café",Nagercoil,Aradhya Mann,2021-04-21,Closed
+S033,"Shukla, Krishnan and Bala Café",Rohtak,Kanav Bhalla,2022-07-19,Open
+S034,Chahal PLC Café,Korba,Madhav Kumar,2021-01-25,Closed
+S035,"Kala, Ganguly and Bhat Café",Karaikudi,Shlok Dave,2022-02-05,Closed

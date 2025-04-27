@@ -1,0 +1,22 @@
+ProductID,ProductName,Category,Price
+P001,Classic Espresso,Coffee,120
+P002,Cappuccino,Coffee,150
+P003,Latte,Coffee,160
+P004,Americano,Coffee,130
+P005,Cold Coffee,Coffee,170
+P006,Filter Coffee,Coffee,90
+P007,Café Mocha,Coffee,180
+P008,Caramel Macchiato,Coffee,190
+P009,Affogato,Coffee,200
+P010,Vietnamese Iced Coffee,Coffee,175
+P011,Tandoori Coffee,Coffee,160
+P012,Masala Chai,Tea,40
+P013,Adrak Chai,Tea,45
+P014,Elaichi Chai,Tea,45
+P015,Lemon Iced Tea,Tea,70
+P016,Peach Tea,Tea,75
+P017,Turmeric Latte,Tea,80
+P018,Veg Puff,Snacks,35
+P019,Chicken Puff,Snacks,45
+P020,Vada Pav,Snacks,30
+P021,Samosa,Snacks,25
